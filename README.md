@@ -5,6 +5,5 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gorkem95&label=Profile%20views&color=0e75b6&style=flat" alt="gorkem95" /> </p>  
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorkem95&show_icons=true&locale=en&layout=compact" alt="gorkem95"/></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gorkem95&show_icons=true&locale=en" alt="gorkem95" /></p>
 
