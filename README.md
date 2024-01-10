@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me</h2>  
 <p align="center">
-I have a keen interest in C/C++. In the past, I developed client and server scripts for games using these languages and worked as a freelancer. Currently, I am employed as a back-end developer, specializing in NodeJS/NestJS, while also actively learning C# .NET Core.</p>
+I have a keen interest in C/C++. In the past, I developed client & server scripts for games using these languages and worked as a freelancer. Currently, I am employed as a back-end developer, specializing in NodeJS/NestJS, while also actively learning C# .NET Core.</p>
 
 <hr>
 
